@@ -1,1 +1,1 @@
-# tup_prog_2_2024_guia12.1
+# Guía 12.1 Estructura de datos
